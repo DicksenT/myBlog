@@ -24,7 +24,9 @@ header,
     justify-content: space-between;
 }
 header{
-    width: 350px;
+    width: 375px;
+    background-color: #feeceb;
+    padding: 4px 12px;
 }
 header p{
     font-size: 40px;
@@ -34,8 +36,6 @@ header p{
     font-size: 20px;
 }
 .link{
-    transition: 400ms;
-    word-spacing: 0px;
     position: relative;
 }
 .link::before{
@@ -51,4 +51,17 @@ header p{
 .link:hover.link::before{
     left: 0;
     width: 100%;
+}
+.blog{
+    padding: 12px 20px;
+    border: 1px solid #feeceb;
+}
+.title{
+    font-size: 20px;
+}
+.author{
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
 }
