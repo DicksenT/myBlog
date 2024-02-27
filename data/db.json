@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "First",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cupiditate, assumenda recusandae aut possimus et aliquam expedita iusto nulla dolorum hic culpa perferendis vitae quam dolorem eligendi facilis dicta ipsum.",
+            "author": "Cloud",
+            "id": 1
+        },
+        {
+            "title": "Second",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cupiditate, assumenda recusandae aut possimus et aliquam expedita iusto nulla dolorum hic culpa perferendis vitae quam dolorem eligendi facilis dicta ipsum.",
+            "author": "Aerith",
+            "id": 2
+        }
+    ]
+}
