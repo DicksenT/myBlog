@@ -25,7 +25,9 @@ header,
 }
 header{
     width: 375px;
-    background-color: #feeceb;
+    background-color: transparent;
+    border-bottom: 4px solid #feeceb;
+    border-top: 4px solid #feeceb;
     padding: 4px 12px;
 }
 header p{
@@ -64,4 +66,18 @@ header p{
 }
 a{
     text-decoration: none;
+}
+.link{
+    cursor: pointer;
+}
+.createForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 12px;
 }
