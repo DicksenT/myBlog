@@ -1,6 +1,7 @@
 import { useState } from "react"
-
+import { useNavigate } from 'react-router-dom'
 function Create(){
+    const history = useNavigate()
     const [title, setTitle] = useState('')
     const [content, setContent] = useState('')
     const [author, setAuthor] = useState('')
@@ -16,7 +17,7 @@ function Create(){
         setTitle('')
         setContent('')
         setAuthor('')
-        
+        history('/')
     }
 
     return(

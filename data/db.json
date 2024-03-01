@@ -1,28 +1,16 @@
 {
   "blogs": [
     {
-      "title": "First",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cupiditate, assumenda recusandae aut possimus et aliquam expedita iusto nulla dolorum hic culpa perferendis vitae quam dolorem eligendi facilis dicta ipsum.",
-      "author": "Cloud",
-      "id": "1"
-    },
-    {
-      "title": "Second",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cupiditate, assumenda recusandae aut possimus et aliquam expedita iusto nulla dolorum hic culpa perferendis vitae quam dolorem eligendi facilis dicta ipsum.",
-      "author": "Aerith",
-      "id": "2"
-    },
-    {
       "id": "9205",
       "title": "(@3@)b",
       "content": "hello",
       "author": "Sephiroth"
     },
     {
-      "id": "c72a",
-      "title": "test",
-      "content": "sada",
-      "author": "Chocobo"
+      "id": "0c30",
+      "title": "♡⸜(˶˃ ᵕ ˂˶)⸝♡",
+      "content": "Yesh",
+      "author": "Yogurt"
     }
   ]
 }
