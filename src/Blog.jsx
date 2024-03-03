@@ -15,12 +15,15 @@ function Blog(){
     return(
         <div className="blog">
             {fetchedData &&
+            <>
             <div className="details">
                 <h3 className="title">{fetchedData.title}</h3>
                 <p className="author">By {fetchedData.author}</p>
             </div>
-            }
             <button onClick={handleDelete} className="delete">delete</button>
+            </>
+            }
+            
         </div>
     )
 

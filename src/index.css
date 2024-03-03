@@ -92,4 +92,12 @@ input{
     padding: 4px 8px;
     border-radius: 8px;
 }
+.post{
+    border: none;
+    margin-top: 12px;
+    padding: 4px 0;
+    font-size: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
 

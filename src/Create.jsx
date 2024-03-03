@@ -29,7 +29,7 @@ function Create(){
             <input type="text" required value={content} onChange={(e) => setContent(e.target.value)}/>
             <label htmlFor="">Author</label>
             <input type="text" required value={author} onChange={(e) => setAuthor(e.target.value)}/>
-            <button type="submit">Post</button>
+            <button className="post" type="submit">Post</button>
         </form>
     )
 }
